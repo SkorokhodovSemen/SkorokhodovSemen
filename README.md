@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning:  
   Java  
   Spring Framework  
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 Telegram @skorokhodovsemen
 
