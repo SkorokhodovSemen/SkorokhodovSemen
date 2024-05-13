@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Skorokhodov Semen
 - 🌱 I’m currently learning:
-  Java
-  Spring Framework
+  Java 
+  Spring Framework 
 - 📫 How to reach me: 
 Telegram @skorokhodovsemen
 
